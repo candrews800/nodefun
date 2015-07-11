@@ -1,0 +1,22 @@
+{
+  "name": "zipnode_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/candrews800/nodefun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/candrews800/nodefun/issues"
+  },
+  "homepage": "https://github.com/candrews800/nodefun",
+  "dependencies": {
+    "express": "^4.13.1"
+  }
+}
