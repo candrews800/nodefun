@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/candrews800/nodefun",
   "dependencies": {
-    "express": "^4.13.1"
+    "express": "^4.13.1",
+    "promise": "^7.0.3"
   }
 }
